@@ -1,0 +1,11 @@
+.gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+  }
+  .gallery img {
+    max-width: 100%;
+    height: auto;
+  }
+  
